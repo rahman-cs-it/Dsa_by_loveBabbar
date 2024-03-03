@@ -1,0 +1,11 @@
+{
+    "code-runner.runInTerminal": true,
+    "files.associations": {
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "typeinfo": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "enabled"
+}
